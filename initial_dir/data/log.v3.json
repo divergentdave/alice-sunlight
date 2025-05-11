@@ -1,0 +1,12 @@
+{
+    "description": "test.example",
+    "submission_url": "/",
+    "monitoring_url": "/",
+    "temporal_interval": {
+        "start_inclusive": "2025-01-01T00:00:00Z",
+        "end_exclusive": "2050-01-01T00:00:00Z"
+    },
+    "log_id": "Z9tgKJw12Wg0PqrD3v8686Yjg5nAzA41TR/inpoM9T0=",
+    "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHm9VJxsjVA4jUWTJirhJFLJnpHLl24Mib2kqf38/A76cCUdoYipPZlhEl7WKde+4w9vG13ecEcRN3dCaiyfR0w==",
+    "mmd": 86400
+}
