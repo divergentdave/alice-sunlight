@@ -1,0 +1,7 @@
+[submodule "alice"]
+	path = alice
+	url = https://github.com/divergentdave/alice.git
+[submodule "sunlight"]
+	path = sunlight
+	url = https://github.com/divergentdave/sunlight.git
+	branch = alice

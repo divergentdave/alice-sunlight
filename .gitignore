@@ -1,0 +1,7 @@
+/.venv
+/temp.gdb
+/workload_dir
+/traces_dir
+/checker_logs
+/harness/workload/workload
+/harness/verifier/verifier

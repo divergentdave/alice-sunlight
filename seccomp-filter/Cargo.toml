@@ -1,0 +1,8 @@
+[package]
+name = "seccomp-filter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.172"
+seccompiler = "0.5.0"

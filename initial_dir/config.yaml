@@ -1,0 +1,13 @@
+checkpoints: checkpoints.db
+log:
+  name: test.example
+  shortname: test
+  inception: 2025-01-01
+  roots: roots.pem
+  seed: seed.bin
+  publickey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEHm9VJxsjVA4jUWTJirhJFLJnpHLl24Mib2kqf38/A76cCUdoYipPZlhEl7WKde+4w9vG13ecEcRN3dCaiyfR0w==
+  cache: cache.db
+  poolsize: 10
+  localdirectory: data
+  notafterstart: 2025-01-01T00:00:00Z
+  notafterlimit: 2050-01-01T00:00:00Z
